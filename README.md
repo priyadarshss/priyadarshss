@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DApps.
+- 🔭 I’m currently working on Front-end development using Reactjs.
 
 - 🌱 I’m currently learning Solidity language along with Truffle and Ganache to make DApps in the Ethereum Blockchain.
 
 - 👯 I’m looking to collaborate on any project that I find interesting.
 
-- 💬 Ask me about Blockchain, Python and C++
+- 💬 Ask me about Reactjs, Blockchain, Python and C++
 
 - 📫 How to reach me: priyadarsh2001@gmail.com
 
