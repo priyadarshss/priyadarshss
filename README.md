@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  ### Checkout my portfolio -> https://pd728-portfolio.web.app/ (Developed using Reactjs)
+  ### Checkout my portfolio -> https://priyadarsh-ss.web.app/ (Developed using Reactjs)
 
 - 🔭 I’m currently working on Front-end development using Nextjs.
 
