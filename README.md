@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end development using Nextjs.<br><br>🌱 I’m currently learning Solidity language along with Truffle and Ganache to make DApps in the Ethereum Blockchain.<br><br>👯 I’m looking to collaborate on any project that I find interesting.<br><br>💬 Ask me about Reactjs, Blockchain, Python and C++<br><br>📫 How to reach me: priyadarsh2001@gmail.com<br><br>⚡ Fun fact: Found out about this README by accident.
+🔭 Currently working as a Software Dev.<br><br>🌱 I’m currently learning Solidity language along with Truffle and Ganache to make DApps in the Ethereum Blockchain.<br><br>👯 I’m looking to collaborate on any project that I find interesting.<br><br>💬 Ask me about Reactjs, Blockchain, Python and C++<br><br>📫 How to reach me: priyadarsh2001@gmail.com<br><br>⚡ Fun fact: Found out about this README by accident.<br><br>🖥️ Checkout my portfolio: priyadarsh-ss.web.app
 
 
 ## 🌐 Socials:
