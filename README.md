@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Currently working as a Software Engineer.<br><br>🌱 I’m currently learning Solidity language along with Truffle and Ganache to make DApps in the Ethereum Blockchain.<br><br>👯 I’m looking to collaborate on any project that I find interesting.<br><br>💬 Ask me about Reactjs, Blockchain, Python and C++<br><br>📫 How to reach me: priyadarsh2001@gmail.com or checkout my [Portfolio](https://priyadarsh-ss.web.app/)<br><br>⚡ Fun fact: The first website ever created is still live at [info.cern.ch](https://info.cern.ch). Talk about retro!<br><br>📄 My [Resume](https://drive.google.com/file/d/1s-F6W-q8o7zxk-yJdliP5QsoGmQvibvM/view?usp=sharing), if you're ever so curious to know.
+🔭 Currently working as a Software Engineer.<br><br>🌱 I’m currently learning Solidity language along with Truffle and Ganache to make DApps in the Ethereum Blockchain.<br><br>👯 I’m looking to collaborate on any project that I find interesting.<br><br>💬 Ask me about Reactjs, Blockchain, Python and C++<br><br>📫 How to reach me: priyadarsh2001@gmail.com 
+<!-- or checkout my [Portfolio](https://priyadarsh-ss.web.app/) -->
+<br><br>⚡ Fun fact: The first website ever created is still live at [info.cern.ch](https://info.cern.ch). Talk about retro!<br><br>📄 My [Resume](https://drive.google.com/file/d/1s-F6W-q8o7zxk-yJdliP5QsoGmQvibvM/view?usp=sharing), if you're ever so curious to know.
 
 
 ## 🌐 Socials:
